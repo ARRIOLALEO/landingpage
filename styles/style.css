@@ -3,3 +3,10 @@
     box-sizing: content-box;
     padding: 0;
 }
+#btn-container{
+    display: flex;
+    align-content: stretch;
+    justify-content: flex-end;
+    align-items: center;
+    min-height: 100px;
+}
