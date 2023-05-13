@@ -17,3 +17,30 @@ h1{
 
 
 
+
+.slider-unique{
+    height: 70vh;
+    background-image: url("https://learn.seytech.co/assets/projects/html-css/projects/3-landing/img/bg-masthead.jpg");
+    background-size: cover;
+    color:white;
+    text-align: center;
+    padding-top: 160px;
+}
+
+.slider-unique input {
+    padding: 6px;
+    border: none;
+    border-radius: 4px;
+    width: 300px;
+}
+
+.slider-unique h2 {
+    padding-bottom: 50px;
+}
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
