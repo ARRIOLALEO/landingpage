@@ -10,3 +10,11 @@
     align-items: center;
     min-height: 100px;
 }
+
+.slider-unique{
+    height: 70vh;
+    background-image: url("https://learn.seytech.co/assets/projects/html-css/projects/3-landing/img/bg-masthead.jpg");
+    background-size: cover;
+    color:white;
+    text-align: center;
+}
