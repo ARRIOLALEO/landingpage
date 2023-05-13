@@ -30,3 +30,10 @@
 .slider-unique h2 {
     padding-bottom: 50px;
 }
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
